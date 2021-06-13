@@ -1,0 +1,14 @@
+{
+    "name": "Deniz Sulmaz | Portfolio",
+    "description": "This My Portfolio and First Extension",
+    "version": "2",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_title": "Deniz Sulmaz | Portfolio",
+        "default_icon": "ds.png",
+        "default_popup": "index.html"
+    },
+
+    "icons": { "512": "ds.png" }
+
+}
